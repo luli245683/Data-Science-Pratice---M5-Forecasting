@@ -20,6 +20,7 @@
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
+* [Acknowledgements](#Acknowledgements)
 
 
 
@@ -88,3 +89,9 @@
 ### Prerequisites
 - Please make sure you have installed all the requirement libraries which in the requirements.txt .
 
+## Acknowledgements
+Some awesome notebooks which have been published at the competition, they are such innovative and novel.
+
+And I am appreciated for those people who are full of enthusiasm about discussing some problems, they are very helpful.
+
+In the process to complete this project I have learned a lot of things.
